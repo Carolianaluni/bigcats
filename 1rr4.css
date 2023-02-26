@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+.first, .second{
+font-size: 50px;
+color: #6b6b47;
+}
+.first{
+font-family: 'Roboto Condensed', sans-serif;
+}
+.second{
+font-family: 'Rubik Storm', cursive;
+font-kerning: normal;
+letter-spacing: 7px;
+}
+.third{
+    	font-size: 30px;
+    	color: #6b6b47;
+    	font-style: italic;
+    	font-weight: 600;
+    	text-transform: uppercase;
+    }
+    .fourth{
+    	font-size: 30px;
+    	color: #6b6b47;
+    	font-variant: small-caps;
+    }
+    .big{
+    	font-size: 2em;
+    	font-weight: 900;
+    	color: #4d4d33;
+    }
+    .five{
+    	font-family: 'Rubik Storm', cursive;
+    	font-size: 70px;
+    	color: #6b6b47;
+    	text-shadow: 8px -8px 10px #2f2f1e;
+    	text-decoration: underline;
+    	text-decoration-color: #4d4d33;
+    	text-decoration-style: dotted;
+    	text-decoration-position: under;
+    }
+    .six{
+    font-family: 'Rubik Storm', cursive;
+    	font-size: 50px;
+    	text-shadow: 8px -8px 10px #f2e6ff;
+    	color: #a34dff;	
+    	text-decoration: underline;
+    	text-decoration-color: #6f00e6;
+    	text-decoration-style: wavy;
+    	text-underline-position: under;
+    }

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Condensed:wght@300 & display=swap');
+.second
+body{
+	background-color: #404040;
+	}
+	p.first{
+		color: #ccffff;
+		font-size: 20px;
+		font-family: "Goudy Bookletter 1911", sans-serif;
+		filter: brightness(0.7);
+
+	}
+{
+    font-size: 25px;
+    color: #006652;
+	font-family: 'Roboto Condensed', sans-serif;
+}

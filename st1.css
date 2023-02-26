@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+    }
+    p.first{
+	    color: #00001a;
+	    font-size: 80px;
+	    font-family:  'Roboto Condensed', sans-serif;
+	    background-color: white;
+	    size: 70px;
+	    filter: brightness(0.7);
+    }
+    p.second{
+    	color: ;
+    }
+   
